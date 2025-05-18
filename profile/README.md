@@ -43,8 +43,9 @@ To contribute:
 
 ### 🤝 Contributors
 
-- 🤵 [Cusatelli](https://github.com/Cusatelli)  
-  <picture>
+  > <a href="https://github.com/Cusatelli"><img src="https://avatars.githubusercontent.com/u/39692033?v=4" alt="profile picture" width="25"></a>
+  [Cusatelli](https://github.com/Cusatelli)  
+  > <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Cusatelli&hide_title=true&hide_border=true&show_icons=true&bg_color=00000000&text_color=f0f6fc&icon_color=f0f6fc"
       media="(prefers-color-scheme: dark)"
